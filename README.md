@@ -48,6 +48,9 @@ $ npm run start:prod
 ```
 
 Une fois l'application est lancée, accèdez au navigateur pour regarder la documentation (http://localhost:3000/api)
+
+Utilisateur par defaut: test1234@test.com/Test1234!
+
 ## Note
 
 J'ai enregistré l'image de couverture de voiture dans la base de données encodé en base64, Cela ne devrait pas faire en vraie application parce que ça ralenti la requête, on devrait avoir de cloud pour stocker le fichier de l'application.
