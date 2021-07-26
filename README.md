@@ -47,6 +47,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Note
+
+J'ai enregistré l'image de couverture de voiture dans la base de données encodé en base64, Cela ne devrait pas faire en vraie application parce que ça ralenti la requête, on devrait avoir de cloud pour stocker le fichier de l'application.
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
